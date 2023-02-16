@@ -21,7 +21,7 @@
 ### 👨‍💻: About Me :
 I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 📚: Studting Computer Science at FCIS-ASU year 3. 
+- 📚: Studying Computer Science at FCIS-ASU year 3. 
 
 - 🌱: Exploring Technical Content Writing.
 
