@@ -25,7 +25,7 @@ I am a junior software engineer, passionate to try new things <img src="https://
 
 - 📍 Lives in Cairo, Egypt.
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ali_Abdallah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdallah7/)
+- 📫 How to reach me: [![Linkedin Badge](https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/ali-abdallah7/)
 
 
 ---
