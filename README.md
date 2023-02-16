@@ -21,6 +21,8 @@
 ### 👨‍💻: About Me :
 I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+- 📚: Studting Computer Science at FCIS-ASU year 3. 
+
 - 🌱: Exploring Technical Content Writing.
 
 - ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
@@ -28,3 +30,5 @@ I am a junior software engineer, passionate to try new things <img src="https://
 - 📍: Lives in Cairo, Egypt.
 
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ali_Abdallah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdallah7/)
+
+
