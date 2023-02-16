@@ -19,4 +19,12 @@
 ---
 
 ### 👨‍💻: About Me :
-I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- 🌱: Exploring Technical Content Writing.
+
+- ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- 📍: Lives in Cairo, Egypt.
+
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdallah7/)
