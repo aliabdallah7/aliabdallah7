@@ -25,9 +25,12 @@ I am a junior software engineer, passionate to try new things <img src="https://
 
 - 📍 Lives in Cairo, Egypt.
 
-### 📫 How to reach me :
+### 📫 How to reach me : 
+- <a href="mailto:ali.abdallah43792@gmail.com" target="blank"><img align="left" src="https://img.icons8.com/color/256/gmail-new.png" height="38" width="38" /></a>
+  <a href="https://www.linkedin.com/in/ali-abdallah7/" target="blank"><img align="left" src="https://camo.githubusercontent.com/82ab6b41b25758ca65942c3c2adb86622cf01a43a8011005c29cbd69089854a6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e6b6564696e2d69636f6e2d322e737667" height="38" width="38" /></a>
+  <a href="https://www.instagram.com/_ali.abdallah_/" target="blank"><img align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" height="38" width="38" /></a>
+  <a href="https://www.github.com/aliabdallah7/" target="blank"><img align="left" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png" height="38" width="38" /></a>
 
-[![gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:ali.abdallah43792@gmail.com) [![github](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png)](https://github.com/aliabdallah7/) [![linkedin](https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-48.png)](https://www.linkedin.com/in/ali-abdallah7/)   [![instgram](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-48.png)](https://www.instagram.com/_ali.abdallah_/)
 
 ---
 
