@@ -57,3 +57,5 @@ I am a junior software engineer, passionate to try new things <img src="https://
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliabdallah7&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdallah7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
