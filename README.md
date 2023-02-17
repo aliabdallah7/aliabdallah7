@@ -65,4 +65,4 @@ I am a junior software engineer, passionate to try new things <img src="https://
 ---
 
 ### 🏆 Github Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliabdallah7&theme=midnight-purple)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aliabdallah7&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
