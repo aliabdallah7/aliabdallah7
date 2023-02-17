@@ -26,8 +26,8 @@ I am a junior software engineer, passionate to try new things <img src="https://
 - 📍 Lives in Cairo, Egypt.
 
 📫 How to reach me: 
-  [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-48.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
-  [3]: https://www.linkedin.com/in/ali-abdallah7/
+  [![gmail](https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png)][mailto:ali.abdallah43792@gmail.com][![github](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)][https://github.com/aliabdallah7/][![instgram](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-48.png)][https://www.instagram.com/_ali.abdallah_/][![linkedin](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)][https://www.linkedin.com/in/ali-abdallah7/]
+
 ---
 
 ### 🛠️ Languages and Tools :
