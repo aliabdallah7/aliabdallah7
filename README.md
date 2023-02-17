@@ -27,7 +27,7 @@ I am a junior software engineer, passionate to try new things <img src="https://
 
 📫 How to reach me:
 
-[![gmail](https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-48.png)](mailto:ali.abdallah43792@gmail.com) [![github](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png)](https://github.com/aliabdallah7/) [![linkedin](https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-48.png)](https://www.linkedin.com/in/ali-abdallah7/) [![instgram](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-48.png)](https://www.instagram.com/_ali.abdallah_/)
+[![gmail](https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-48.png)](mailto:ali.abdallah43792@gmail.com) [![github](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png)](https://github.com/aliabdallah7/) [![linkedin](https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-48.png)](https://www.linkedin.com/in/ali-abdallah7/)  [![instgram](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-48.png)](https://www.instagram.com/_ali.abdallah_/)
 
 ---
 
@@ -56,8 +56,8 @@ I am a junior software engineer, passionate to try new things <img src="https://
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliabdallah7&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliabdallah7&theme=merko&background=000000)](https://git.io/streak-stats)
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=radical)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdallah7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
