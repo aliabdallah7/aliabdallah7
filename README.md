@@ -13,12 +13,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### (👨‍💻,'white') About Me :
 I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 📚 Studying Computer Science at FCIS-ASU year 3. 
