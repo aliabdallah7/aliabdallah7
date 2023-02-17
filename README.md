@@ -27,7 +27,7 @@ I am a junior software engineer, passionate to try new things <img src="https://
 
 📫 How to reach me:
 
-[![gmail](https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-48.png)](mailto:ali.abdallah43792@gmail.com)[![github](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png)](https://github.com/aliabdallah7/)[![linkedin](https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-48.png)](https://www.linkedin.com/in/ali-abdallah7/)[![instgram](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-48.png)](https://www.instagram.com/_ali.abdallah_/)
+[![gmail](https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-48.png)](mailto:ali.abdallah43792@gmail.com) [![github](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png)](https://github.com/aliabdallah7/) [![linkedin](https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-48.png)](https://www.linkedin.com/in/ali-abdallah7/) [![instgram](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-48.png)](https://www.instagram.com/_ali.abdallah_/)
 
 ---
 
@@ -51,3 +51,9 @@ I am a junior software engineer, passionate to try new things <img src="https://
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliabdallah7&theme=dark&background=000000)](https://git.io/streak-stats)
