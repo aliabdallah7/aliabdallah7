@@ -20,11 +20,13 @@
 
 ### 👨🏻‍💻 About Me :
 <div>
-I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-- 📚 Studying Computer Science at FCIS-ASU year 3. 
+- 📚 Studying Computer Science at FCIS-ASU year 3
+  
+- ❤️‍🔥 Intersted in Data Scinence
 
-- 📍 Lives in Cairo, Egypt.
+- 📍 Lives in Cairo, Egypt
 
 ### 📫 How to reach me :
 - <a href="mailto:ali.abdallah43792@gmail.com" target="blank"><img align="left" src="https://img.icons8.com/color/256/gmail-new.png" height="38" width="38" /></a>
