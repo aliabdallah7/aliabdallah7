@@ -24,7 +24,7 @@ I am a junior software engineer, passionate to try new things <img src="https://
 
 - 📚 Studying Computer Science at FCIS-ASU year 3
   
-- ❤️‍🔥 Intersted in Data Scinence
+- ❤️‍🔥 Intersted in Data Science
 
 - 📍 Lives in Cairo, Egypt
 
