@@ -1,9 +1,13 @@
-<div align=center>
+<p><a href="https://www.asu.edu.eg/"><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="100" /></a></p>
+
+<div align=left>
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ali..
 </h1>
 </div>
+
+<br>
 
 <div id="header" align="center">
   <div id="badges">
@@ -11,12 +15,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=aliabdallah7&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=aliabdallah7&label=Profile%20views&color=blue&style=plastic?" alt="Ali Abdallah" height=25px, width=115px/>
+</div>
+
+<br>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!+;Junior+Software+Engineer+;Computer+Science+Student+;Competitive+Programmer+;Data+Science+Student)
+
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-## 👨🏻‍💻 About Me :
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=45px></picture> **About me :**
 I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 - 📚 Studying Computer Science at FCIS-ASU year 3
