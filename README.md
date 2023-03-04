@@ -39,6 +39,8 @@ I am a junior software engineer, passionate to try new things <img src="https://
 
 - 📍 Lives in Cairo, Egypt
 
+- 👨‍💻 [My CV](https://drive.google.com/file/d/1c5iy354XeaQRSD3NctKu9BcYkpi83Q8Y/view?usp=sharing)
+
 ## 📫 How to reach me :
 <div>
   <a href="mailto:ali.abdallah43792@gmail.com" target="blank"><img align="left" src="https://img.icons8.com/color/256/gmail-new.png" height="38" width="38" /></a>
