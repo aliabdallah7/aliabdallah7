@@ -1,5 +1,3 @@
-<p><a href="https://www.asu.edu.eg/"><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="100" /></a></p>
-
 <div align=left>
 <h1>
   Hey there
@@ -28,17 +26,17 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
-I am a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+I'm a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-- 📚 Studying Computer Science at FCIS-ASU year 3
+- 📚 I'm a third-year computer science student at Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
 
-- 🤓 ALX Student at [ALX Software Engineering Scholarship](https://www.alxafrica.com/software-engineering/)
+- 🤓 ALX Student at [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/)
   
 - ❤️‍🔥 Intersted in Data Science
 
 - 📍 Lives in Cairo, Egypt
 
-- 🛠️ My Resume 👉🏻 [<b>"📝"</b>](https://drive.google.com/file/d/1c5iy354XeaQRSD3NctKu9BcYkpi83Q8Y/view?usp=sharing)
+- 📝 [My Resume](https://drive.google.com/file/d/1c5iy354XeaQRSD3NctKu9BcYkpi83Q8Y/view?usp=sharing)
 
 ## 📫 How to reach me :
 <div>
