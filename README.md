@@ -94,6 +94,3 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 ## 🏆 Github Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=aliabdallah7&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 🐍 Contribution Snake :
-![Snake animation](https://github.com/aliabdallah7/aliabdallah7/blob/output/github-contribution-grid-snake.svg)
