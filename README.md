@@ -36,7 +36,7 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 
 - 📍 Lives in Cairo, Egypt
 
-- 📝 [My Resume](https://drive.google.com/file/d/1c5iy354XeaQRSD3NctKu9BcYkpi83Q8Y/view?usp=sharing)
+- 📝 [My Resume](https://drive.google.com/file/d/1EkyICAbmyd16jTUieWVH7IsO9wffgQ1D/view?usp=sharing)
 
 ## 📫 How to reach me :
 <div>
