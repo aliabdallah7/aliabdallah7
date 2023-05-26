@@ -86,7 +86,7 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliabdallah7&theme=midnight-purple&background=000000)](https://git.io/streak-stats)
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=midnight-purple)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=midnight-purple&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdallah7&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
