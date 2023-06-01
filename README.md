@@ -20,7 +20,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!+;Junior+Software+Engineer+;Computer+Science+Student+;Competitive+Programmer+;Data+Science+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!+;Junior+Software+Engineer+;Computer+Science+Student+;Data+Science+Student)
 
 </div>
 
@@ -28,9 +28,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
 I'm a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-- 📚 I'm a third-year computer science student at Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
+- 📚 Third-year computer science student at Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
 
-- 🤓 ALX Student at [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering/)
+- 🔎 I am eagerly looking forward to embarking on an enriching internship in the dynamic realm of data science/software industry. The opportunity to apply my skills, collaborate with industry professionals, and contribute to impactful projects is truly exciting, and I am ready to embrace the challenges and growth that lie ahead.
   
 - ❤️‍🔥 Intersted in Data Science
 
