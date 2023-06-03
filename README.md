@@ -34,8 +34,6 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
   
 - ❤️‍🔥 Intersted in Data Science
 
-- 📍 Lives in Cairo, Egypt
-
 - 📝 [My Resume](https://drive.google.com/file/d/1EkyICAbmyd16jTUieWVH7IsO9wffgQ1D/view?usp=sharing)
 
 ## 📫 How to reach me :
