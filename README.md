@@ -29,12 +29,8 @@
 I'm a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 - 📚 Third-year computer science student at Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
-
-- 🔎 I am eagerly looking forward to embarking on an enriching internship in the dynamic realm of data science/software industry. The opportunity to apply my skills, collaborate with industry professionals, and contribute to impactful projects is truly exciting, and I am ready to embrace the challenges and growth that lie ahead.
   
 - ❤️‍🔥 Intersted in Data Science
-
-- 📝 [My Resume](https://drive.google.com/file/d/1EkyICAbmyd16jTUieWVH7IsO9wffgQ1D/view?usp=sharing)
 
 ## 📫 How to reach me :
 <div>
