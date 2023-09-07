@@ -28,7 +28,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
 I'm a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-- 📚 Third-year computer science student at Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
+- 📚 Computer science senior student at Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
   
 - ❤️‍🔥 Intersted in Data Science
 
