@@ -42,7 +42,7 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools :</b>
+## <b> 🛠️ Languages and Tools :</b>
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -77,7 +77,7 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 </div>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats :</b>
+## <b>📊 Github Stats :</b>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliabdallah7&theme=midnight-purple&background=000000)](https://git.io/streak-stats)
 
