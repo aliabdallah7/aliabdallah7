@@ -9,7 +9,7 @@
 
 <div id="header" align="center">
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ali-abdallah7/">
+  <a href="https://www.linkedin.com/in/ali-abdallah7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" width="110" alt="linkedin profile"  />
   </a>
 </div>
