@@ -10,10 +10,11 @@
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/ali-abdallah7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" width="110" alt="linkedin profile"  />
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=aliabdallah7&label=Profile%20views&color=blue&style=plastic?" alt="Ali Abdallah" height=25px, width=115px/>
+  <a href="https://aliabdallah7.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=00abf0&logoColor=black&labelColor=&style=for-the-badge" height="30" width="110" alt="Potfolio"  />
 </div>
 
 <br>
@@ -83,7 +84,7 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=midnight-purple&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdallah7&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdallah7&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ## 🏆 Github Trophies :
