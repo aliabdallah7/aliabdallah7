@@ -21,21 +21,22 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!+;Junior+Software+Engineer+;Junior+Data+Scientist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!+;Computer+science+fresh+graduate+;Junior+Software+Engineer+;Junior+Data+Scientist)
 
 </div>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
+## <picture><img src = "https://github.com/user-attachments/assets/b4692956-cbc7-4c5f-80e3-2d95fef161cf" width=30px></picture> **About me :**
+
 I'm a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-- 📚 Computer science senior student at Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
+- 📚 Fresh graduate of Faculty of Computer and Information Sciences - [Ain Shams University](https://www.asu.edu.eg/)
   
 - ❤️‍🔥 Intersted in Data Science
 
 ## 📫 How to reach me :
 <div>
-  <a href="mailto:ali.abdallah43792@gmail.com" target="blank"><img align="left" src="https://img.icons8.com/color/256/gmail-new.png" height="45" width="45" /></a>
+  <a href="mailto:eng.aliabdallah7@gmail.com" target="blank"><img align="left" src="https://img.icons8.com/color/256/gmail-new.png" height="45" width="45" /></a>
   <a href="https://www.linkedin.com/in/ali-abdallah7/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="40" width="40" /></a>
   <a href="https://www.instagram.com/_ali.abdallah_/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="40" width="40" /></a>
   <a href="https://www.github.com/aliabdallah7/" target="blank"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" width="40" /></a>
