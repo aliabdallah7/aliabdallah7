@@ -25,8 +25,7 @@
 
 </div>
 
-
-## <picture><img src = "https://github.com/user-attachments/assets/b4692956-cbc7-4c5f-80e3-2d95fef161cf" width=30px></picture> **About me :**
+## <picture> <img height="45" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/aionlabs.png"/></picture> **About me :**
 
 I'm a junior software engineer, passionate to try new things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
