@@ -84,10 +84,3 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aliabdallah7&theme=midnight-purple)](https://git.io/streak-stats)
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=midnight-purple&count_private=true)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdallah7&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-## 🏆 Github Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliabdallah7&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
