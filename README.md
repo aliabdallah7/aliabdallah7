@@ -79,3 +79,9 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aliabdallah7&theme=midnight-purple)](https://git.io/streak-stats)
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=midnight-purple&count_private=true)
+
+<br>
+
+<div align="center">
+  ![snake gif](https://github.com/aliabdallah7/aliabdallah7/blob/output/github-snake-dark.svg)
+</div>
