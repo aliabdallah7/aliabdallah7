@@ -81,7 +81,8 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=midnight-purple&count_private=true)
 
 <br>
+<div align="center"
 
-<div align="center">
-  ![snake gif](https://github.com/aliabdallah7/aliabdallah7/blob/output/github-snake-dark.svg)
-</div>
+  ![snake](https://raw.githubusercontent.com/aliabdallah7/aliabdallah7/output/github-snake-dark.svg)
+
+<div/>
