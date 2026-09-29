@@ -75,10 +75,11 @@ I'm a junior software engineer, passionate to try new things <img src="https://m
 
 
 ## <b>📊 Github Stats :</b>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aliabdallah7&theme=midnight-purple)](https://git.io/streak-stats)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aliabdallah7&theme=midnight-purple)](https://git.io/streak-stats)
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdallah7&show_icons=true&theme=midnight-purple&count_private=true)
+</div>
 
 <br>
 <div align="center"
